@@ -1,5 +1,5 @@
 {
-  "name": "react-control-flow",
+  "name": "react-control-flows",
   "version": "0.1.0",
   "description": "React Control Flow",
   "types": "lib/index.d.ts",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fillmula/react-control-flow.git"
+    "url": "git+https://github.com/fillmula/react-control-flows.git"
   },
   "author": "Victor Teo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fillmula/react-control-flow/issues"
+    "url": "https://github.com/fillmula/react-control-flows/issues"
   },
-  "homepage": "https://github.com/fillmula/react-control-flow#readme",
+  "homepage": "https://github.com/fillmula/react-control-flows#readme",
   "dependencies": {
     "react-use-head-style-injection": "^0.0.1"
   },

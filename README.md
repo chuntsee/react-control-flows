@@ -1,2 +1,2 @@
-# react-control-flow
+# react-control-flows
 React Control Flow
