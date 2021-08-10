@@ -6,7 +6,7 @@ interface IfProps {
 
 const If: FunctionComponent<IfProps> = ({ value, children }) => {
     if (value) {
-        return <>children</>;
+        return <>{children}</>;
     } else {
         return null;
     }
