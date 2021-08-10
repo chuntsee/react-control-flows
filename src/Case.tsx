@@ -1,7 +1,7 @@
 import React, { FunctionComponent } from 'react'
 
 interface CaseProps {
-    value: string
+    value: any
 }
 
 export interface CaseComponent<CaseProps> extends FunctionComponent<CaseProps> {

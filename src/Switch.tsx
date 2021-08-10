@@ -2,7 +2,7 @@ import React, { FunctionComponent } from 'react'
 import { DefaultComponent } from './Default'
 
 interface SwitchProps {
-    value: string
+    value: any
 }
 
 const Switch: FunctionComponent<SwitchProps> = ({ value, children }) => {
