@@ -1,7 +1,7 @@
 import React, { FunctionComponent } from 'react'
 
 interface IfProps {
-  value: string
+  value: any
 }
 
 const If: FunctionComponent<IfProps> = ({ value, children }) => {
